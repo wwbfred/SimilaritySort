@@ -1,0 +1,9 @@
+﻿  GetSimilarity.cpp
+GetSimilarity.cpp(48): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  5 of 766 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Project1.vcxproj -> C:\Users\Fred Wu\Documents\Visual Studio 2015\Projects\Project1\x64\Release\Similarity sort.exe
+  Project1.vcxproj -> C:\Users\Fred Wu\Documents\Visual Studio 2015\Projects\Project1\x64\Release\Similarity sort.pdb (Full PDB)
